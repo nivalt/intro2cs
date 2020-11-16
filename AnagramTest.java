@@ -1,3 +1,7 @@
+// Add this java file to your specific folder which Algebra is!
+// Compile and run this class, whish you luck
+//@author: Niv Alterman
+
 public class AnagramTest{
 	public static void main(String args[]){
 		System.out.println("\t\t\t*************************************");
